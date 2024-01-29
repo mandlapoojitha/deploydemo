@@ -1,0 +1,386 @@
+{
+    
+"data":[
+    {
+      "id":"1",
+      "techname": "HTML",
+      "blogname": "HTML Basics",
+      "authorname": "Sara viera",
+      "color": "#FECACA"
+    },
+    {
+        "id":"2",
+      "techname": "HTML",
+      "blogname": "Building Responsive Websites with HTML",
+      "authorname": "Ezequiel bruni",
+      "color": "#BAE6FD"
+    },
+    {
+        "id":"3",
+      "techname": "HTML",
+      "blogname": "Mastering HTML5",
+      "authorname": "Marc schenker",
+      "color": "#A7F3D0"
+
+    },
+    {
+        "id":"4",
+      "techname": "HTML",
+      "blogname": "HTML and CSS Integration",
+      "authorname": "Rafay ansari",
+      "color": "#FED7AA"
+    },
+    {
+        "id":"5",
+      "techname": "HTML",
+      "blogname": "Web Accessibility with HTML",
+      "authorname": "Brenda stokes",
+      "color": "#C4B5FD"
+    },
+    {
+        "id":"6",
+      "techname": "HTML",
+      "blogname": "HTML Best Practices",
+      "authorname": "Maddy osman",
+      "color": "#F9A8D4"
+    },
+    {
+        "id":"7",
+        "techname": "CSS",
+        "blogname": "CSS Styling Essentials",
+        "authorname": "Maddy osman",
+        "color": "#F9A8D4"
+      },
+      {
+        "id":"8",
+        "techname": "CSS",
+        "blogname": "Responsive Web Design with CSS",
+        "authorname": "Brenda stokes",
+        "color": "#C4B5FD"
+      },
+      {
+        "id":"9",
+        "techname": "CSS",
+        "blogname": "Mastering CSS Transitions",
+        "authorname": "Rafay ansari",
+        "color": "#FED7AA"
+      },
+      {
+        "id":"10",
+        "techname": "CSS",
+        "blogname": "CSS Grid Layout Explained",
+        "authorname": "Marc schenker",
+        "color": "#A7F3D0"
+      },
+      {
+        "id":"11",
+        "techname": "CSS",
+        "blogname": "Optimizing Stylesheets in CSS",
+        "authorname": "Ezequiel bruni",
+        "color": "#BAE6FD"
+      },
+      {
+        "id":"12",
+        "techname": "CSS",
+        "blogname": "CSS Flexbox Fundamentals",
+        "authorname": "Sara viera",
+        "color": "#FECACA"
+      },
+      {
+        "id":"13",
+        "techname": "Java script",
+        "blogname": "Essential JavaScript Techniques",
+        "authorname": "Rafay ansari",
+        "color": "#FED7AA"
+        
+      },
+      {
+        "id":"14",
+        "techname": "Java script",
+        "blogname": "Modern JavaScript Best Practices",
+        "authorname": "Brenda stokes",
+        "color": "#C4B5FD"
+      },
+      {
+        "id":"15",
+        "techname": "Java script",
+        "blogname": "Async Programming in JavaScript",
+        "authorname": "Maddy osman",
+        "color": "#F9A8D4"
+      },
+      {
+        "id":"16",
+        "techname": "Java script",
+        "blogname": "JavaScript Design Patterns",
+        "authorname": "Sara viera",
+        "color": "#FECACA"
+      },
+      {
+        "id":"17",
+        "techname": "Java script",
+        "blogname": "Building APIs with Node.js",
+        "authorname": "Ezequiel bruni",
+        "color": "#BAE6FD"
+      },
+      {
+        "id":"18", 
+        "techname": "Java script",
+        "blogname": "React.js Fundamentals",
+        "authorname": "Marc schenker",
+        "color": "#A7F3D0"
+      },
+      {
+        "id":"19",
+        "techname": "Jquery",
+        "blogname": "Unlocking the Power of jQuery",
+        "authorname": "Brenda stokes",
+        "color": "#C4B5FD"
+      },
+      {
+        "id":"20",
+        "techname": "Jquery",
+        "blogname": "Building Interactive Web Pages with jQuery",
+        "authorname": "Maddy osman",
+        "color": "#F9A8D4"
+      },
+      {
+        "id":"21",
+        "techname": "Jquery",
+        "blogname": "Optimizing UI with jQuery Plugins",
+        "authorname": "Sara viera",
+        "color": " #FECACA"
+      },
+      {
+        "id":"22",
+        "techname": "Jquery",
+        "blogname": "jQuery Animation Techniques",
+        "authorname": "Ezequiel bruni",
+        "color": "#BAE6FD"
+      },
+      {
+        "id":"23",
+        "techname": "Jquery",
+        "blogname": "Responsive Design with jQuery",
+        "authorname": "Marc schenker",
+        "color": "#A7F3D0"
+      },
+      {
+        "id":"24",
+        "techname": "Jquery",
+        "blogname": "Advanced DOM Manipulation with jQuery",
+        "authorname": "Rafay ansari",
+        "color": " #FED7AA"
+      },
+      {
+        "id":"25",
+        "techname": "MySQL",
+        "blogname": "MySQL Essentials: Getting Started",
+        "authorname": "Ezequiel bruni",
+        "color": "#BAE6FD"
+      },
+      {
+        "id":"26",
+        "techname": "MySQL",
+        "blogname": "Optimizing Database Queries with MySQL",
+        "authorname": "Rafay ansari",
+        "color": "#FED7AA"
+      },
+      {
+        "id":"27",
+        "techname": "MySQL",
+        "blogname": "Secure Database Management with MySQL",
+        "authorname": "Maddy osman",
+        "color": " #F9A8D4"
+      },
+      {
+        "id":"28",
+        "techname": "MySQL",
+        "blogname": "Advanced MySQL Techniques",
+        "authorname": "Sara viera",
+        "color": "#FECACA"
+      },
+      {
+        "id":"29",
+        "techname": "MySQL",
+        "blogname": "MySQL Performance Tuning",
+        "authorname": "Marc schenker",
+        "color": "#A7F3D0"
+      },
+      {
+        "id":"30",
+        "techname": "MySQL",
+        "blogname": "Building Scalable Databases with MySQL",
+        "authorname": "Brenda stokes",
+        "color": "#C4B5FD"
+      },
+      {
+        "id":"31",
+        "techname": "PHP",
+        "blogname": "PHP Basics: Understanding the Fundamentals",
+        "authorname": "Maddy osman",
+        "color": " #F9A8D4"
+      },
+      {
+        "id":"32",
+        "techname": "PHP",
+        "blogname": "Building Dynamic Websites with PHP",
+        "authorname": "Sara viera",
+        "color": "#FECACA"
+      },
+      {
+        "id":"33",
+        "techname": "PHP",
+        "blogname": "Secure Coding Practices in PHP",
+        "authorname": "Brenda stokes",
+        "color": "#C4B5FD"
+      },
+      {
+        "id":"34",
+        "techname": "PHP",
+        "blogname": "Object-Oriented PHP Programming",
+        "authorname": "Ezequiel bruni",
+        "color": "#BAE6FD"
+      },
+      {
+        "id":"35",
+        "techname": "PHP",
+        "blogname": "PHP and MySQL Integration",
+        "authorname": "Rafay ansari",
+        "color": "#FED7AA"
+      },
+      {
+        "id":"36", 
+        "techname": "PHP",
+        "blogname": "Building APIs with PHP",
+        "authorname": "Marc schenker",
+        "color": "#A7F3D0"
+      },
+      {
+        "id":"37",
+        "techname": "Web Development",
+        "blogname": "The Art of Web Development",
+        "authorname": "Marc schenker",
+        "color": "#A7F3D0"
+      },
+      {
+        "id":"38",
+        "techname": "Web Development",
+        "blogname": "Mastering Responsive Design",
+        "authorname": "Ezequiel bruni",
+        "color": "#BAE6FD"
+      },
+      {
+        "id":"39",
+        "techname": "Web Development",
+        "blogname": "Building Scalable Web Applications",
+        "authorname": "Maddy osman",
+        "color": "#F9A8D4"
+      },
+      {
+        "id":"40",
+        "techname": "Web Development",
+        "blogname": "Web Security Best Practices",
+        "authorname": "Brenda stokes",
+        "color": " #C4B5FD"
+      },
+      {
+        "id":"41",
+        "techname": "Web Development",
+        "blogname": "Frontend Frameworks Comparison",
+        "authorname": "Sara viera",
+        "color": "#FECACA"
+      },
+      {
+        "id":"42", 
+        "techname": "Web Development",
+        "blogname": "Backend Development Strategies",
+        "authorname": "Rafay ansari",
+        "color": "#FED7AA"
+      },
+      {
+        "id":"43",
+        "techname": "Web Services",
+        "blogname": "Introduction to RESTful APIs",
+        "authorname": "Ezequiel bruni",
+        "color": "#BAE6FD"
+      },
+      {
+        "id":"44",
+        "techname": "Web Services",
+        "blogname": "Building Scalable Microservices",
+        "authorname": "Brenda stokes",
+        "color": "#C4B5FD"
+      },
+      {
+        "id":"45",
+        "techname": "Web Services",
+        "blogname": "GraphQL Fundamentals",
+        "authorname": "Marc schenker",
+        "color": "#A7F3D0"
+      },
+      {
+        "id":"46",
+        "techname": "Web Services",
+        "blogname": "SOAP vs REST: Choosing the Right Approach",
+        "authorname": "Rafay ansari",
+        "color": "#FED7AA"
+      },
+      {
+        "id":"47",
+        "techname": "Web Services",
+        "blogname": "Securing Web Services: Best Practices",
+        "authorname": "Sara viera",
+        "color": "#FECACA"
+      },
+      {
+        "id":"48",
+        "techname": "Web Services",
+        "blogname": "Webhooks and Event-Driven Architectures",
+        "authorname": "Maddy osman",
+        "color": "#F9A8D4"
+      },
+      {
+        "id":"49",
+        "techname": "WordPress",
+        "blogname": "WordPress Mastery: Building Beautiful Sites",
+        "authorname": "Ezequiel bruni",
+        "color": "#BAE6FD"
+      },
+      {
+        "id":"50",
+        "techname": "WordPress",
+        "blogname": "Customizing Themes in WordPress",
+        "authorname": "Maddy osman",
+        "color": "#F9A8D4"
+      },
+      {
+        "id":"51",
+        "techname": "WordPress",
+        "blogname": "Effective Blogging with WordPress",
+        "authorname": "Brenda stokes",
+        "color": "#C4B5FD"
+      },
+      {
+        "id":"52",
+        "techname": "WordPress",
+        "blogname": "WordPress SEO Strategies",
+        "authorname": "Sara viera",
+        "color": "#FECACA"
+      },
+      {
+        "id":"53",  
+        "techname": "WordPress",
+        "blogname": "E-commerce with WooCommerce",
+        "authorname": "Rafay ansari",
+        "color": "#FED7AA"
+      },
+      {
+        "id":"54",
+        "techname": "WordPress",
+        "blogname": "WordPress Plugin Development",
+        "authorname": "Marc schenker",
+        "color": "#A7F3D0"
+      }
+  ]
+
+}
