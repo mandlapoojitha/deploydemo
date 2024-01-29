@@ -51,7 +51,7 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: '20'
           cache: ${{ steps.detect-package-manager.outputs.manager }}
       - name: Setup Pages
         uses: actions/configure-pages@v4
@@ -61,6 +61,21 @@ jobs:
           #
           # You may remove this line if you want to manage the configuration yourself.
           static_site_generator: next
+      - name: Cache dependencies
+  uses: actions/cache@v3
+  with:
+    path: ~/.npm
+    key: ${{ runner.os }}-node-${{ hashFiles('**/*.lock') }}
+    restore-keys: |
+      ${{ runner.os }}-node-
+    config: |
+      node_modules
+      ~/.npm
+      # other paths to cache
+
+    # Update the node-version field
+    node-version: '20'
+
       - name: Restore cache
         uses: actions/cache@v3
         with:
