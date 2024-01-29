@@ -35,9 +35,9 @@ const Footer = () => {
           </p>
          
           <div className=" mt-4 flex flex-row justify-start items-center gap-4 ml-4">
-          <img className="cursor-pointer" src={`./facebookicon.png`} alt="no image" width={30} height={30}/>
+          {/* <img className="cursor-pointer" src={`./facebookicon.png`} alt="no image" width={30} height={30}/>
           <img  className="cursor-pointer" src={`./twittericon.png`} alt="no image" width={30} height={30}/>
-          <img  className="cursor-pointer" src={`./linkedinicon.png`} alt="no image" width={30} height={30}/>
+          <img  className="cursor-pointer" src={`./linkedinicon.png`} alt="no image" width={30} height={30}/> */}
 
           </div>
         </div>

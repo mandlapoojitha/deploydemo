@@ -5,11 +5,11 @@ const Homepagecontent = () => {
     <div className="w-full  flex justify-center items-center mb-10">
       <div className="w-4/5 h-full">
         <h1 className="text-3xl font-bold mt-8 mb-4">Why DevByteHub ?</h1>
-        <img
+        {/* <img
           className="cursor-pointer mt-4"
           src={`./blogimg.webp`}
           alt="no image"
-        />
+        /> */}
         <p className="font-medium text-base mt-8">
           Irrespective of whether you are a frontend, backend, or full-stack
           developer, blogging is one of the best approaches you can use to
